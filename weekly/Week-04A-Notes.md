@@ -10,6 +10,8 @@
 - https://colourlovers.com
 - http://colorschemedesigner.com/
 - http://colorfilter.wickline.org/ 
+- https://en.wikipedia.org/wiki/Rule_of_thirds
+- https://en.wikipedia.org/wiki/Hick%27s_law
 
 ## What not to do...
 - http://www.angelfire.com/super/badwebs/
